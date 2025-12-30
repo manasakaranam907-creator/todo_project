@@ -1,2 +1,2 @@
 # todo_project
-http://127.0.0.1:8000/
+https://todo-project-shwz.onrender.com
